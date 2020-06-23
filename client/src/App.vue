@@ -42,7 +42,7 @@ body {
   background: url('./assets/birds-background.jpg') no-repeat;
   height: 100%;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
 
 }
